@@ -1,0 +1,15 @@
+= SFML - klon Tetris igre    
+Mladen Jurak
+v1.0, 2019-04
+:lang: hr
+:ascii-ids:
+:cxx: C++
+:pp: ++
+:source-highlighter: pygments
+:stem:
+
+
+== Tetris
+
+
+
