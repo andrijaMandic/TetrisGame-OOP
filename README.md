@@ -1,2 +1,2 @@
-# TetrisGame-OOP
-Using SFML and OOP, create the Tetris Game.
+# TetrisGame - OOP
+Used SFML and OOP for creating the Tetris Game.
